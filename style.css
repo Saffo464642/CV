@@ -1,0 +1,31 @@
+.text {
+  color: rgba(0, 0, 0, 0.801);
+  font-size: 50px;
+  font-weight: 900;
+  font-style: oblique;
+  font-family: "Comforter Brush", fantasy ;
+  background-color: aqua;
+  width: left;
+}
+p{
+  color: rgba(0, 0, 0, 0.993);
+  font-size: 22px;
+  font-weight: normal;
+  font-style: oblique;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+li{
+  color: rgba(0, 0, 0, 0.993);
+  font-size: 27px;
+  font-weight: normal;
+  font-style: oblique;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+input{
+  color: rgba(91, 109, 214, 0.993);
+  font-size: 25px;
+  font-weight: normal;
+  font-style: oblique;
+  font-family: 'Fuzzy Bubbles', cursive;
+  
+}
